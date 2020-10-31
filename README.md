@@ -10,7 +10,7 @@ Little app made in React using React Routers
 - Fun
 
 ## Installation 🖥
-```js
+```bash
 > cd UTN_CR_TP1
 > npm i
 > npm run start
